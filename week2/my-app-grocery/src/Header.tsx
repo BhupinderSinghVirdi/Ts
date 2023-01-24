@@ -3,6 +3,7 @@ type Props = {
     totalItems : number
 }
 
+
 export const Header = (props : Props) => {
     return (
       <header className="app-Header">

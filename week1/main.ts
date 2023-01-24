@@ -12,3 +12,4 @@ var myUser: User = {
     name: 'Bhupinder',
     email: 'hahh@lol.com'
 }
+
